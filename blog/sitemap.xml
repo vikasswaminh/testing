@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+    <url>
+      <loc>/blog/7-networking-trends-to-watch-out-in-2022</loc>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <lastmod>2022-01-20T12:23:31+00:00</lastmod>
+    </url>
+
+    <url>
+      <loc>/blog/top-7-reasons-for-choosing-networkers-home</loc>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+      <lastmod>2022-01-14T18:20:27+00:00</lastmod>
+    </url>
+  </urlset>
+
